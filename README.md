@@ -2,13 +2,16 @@
 
 > **Read-only archive of released versions of f0rtem/flarum-ext-lt.** Not for installation: use [Packagist](https://packagist.org/packages/f0rtem/flarum-ext-lt) or the [upstream repository](https://github.com/f0rtem/flarum-ext-lt).
 
-**0** versions archived · Latest: [`1.1.1`](https://github.com/flarchive/f0rtem-flarum-ext-lt/tree/archive/v1.1.1) · License: `MIT` · Flarum: `^0.1.0-beta.16`
+**4** versions archived · Latest: [`1.1.1`](https://github.com/flarchive/f0rtem-flarum-ext-lt/tree/archive/v1.1.1) · License: `MIT` · Flarum: `^0.1.0-beta.16`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2020-12-29 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/f0rtem-flarum-ext-lt/tree/archive/v1.0.0) |
+| `1.0.6` | 2020-12-29 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/f0rtem-flarum-ext-lt/tree/archive/v1.0.6) |
+| `1.1.0` | 2021-04-27 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/f0rtem-flarum-ext-lt/tree/archive/v1.1.0) |
+| `1.1.1` | 2021-04-27 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/f0rtem-flarum-ext-lt/tree/archive/v1.1.1) |
 
 Catalog entry: [packages/f0rtem-flarum-ext-lt.json](https://github.com/flarchive/archive-index/blob/main/packages/f0rtem-flarum-ext-lt.json)
 
